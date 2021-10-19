@@ -1,0 +1,41 @@
+"","Sample_ID","Paper_Name","Journal","Pubmed_ID","GSE","Technique","Species","CellType","Treatment","PipeLine","Antibody","Site...on.hg19"
+"1",1,"Histone H3 trimethylation at lysine 36 guides m6A RNA modification co-transcriptionally.","Nature",30867593,"GSE121942","miCLIP","Hsapiens","HepG2","none","CIMS","sysy",3755
+"2",2,"Identification of the m6Am Methyltransferase PCIF1 Reveals the Location and Functions of m6Am in the Transcriptome","Molecular Cell",31279658,"GSE122948","miCLIP","Hsapiens","HEK293","none","CIMS","abcam",43654
+"3",3,"Identification of the m6Am Methyltransferase PCIF1 Reveals the Location and Functions of m6Am in the Transcriptome","Molecular Cell",31279658,"GSE122948","miCLIP","Hsapiens","HEK293","PCIF1 KO","CIMS","abcam",40699
+"4",4,"Identification of the m6Am Methyltransferase PCIF1 Reveals the Location and Functions of m6Am in the Transcriptome","Molecular Cell",31279658,"GSE122948","miCLIP","Hsapiens","HEK293","PCIF1 KO","CIMS","abcam",45967
+"5",5,"Deciphering the “m6A Code” via Antibody-independent Quantitative Profiling","Cell",31257032,"GSE122961","MAZTER-Seq","Hsapiens","hESC","FTO_KO","-","-",1883
+"6",6,"Deciphering the “m6A Code” via Antibody-independent Quantitative Profiling","Cell",31257032,"GSE122961","MAZTER-Seq","Hsapiens","hESC","WT","-","-",1919
+"7",7,"Deciphering the “m6A Code” via Antibody-independent Quantitative Profiling","Cell",31257032,"GSE122961","MAZTER-Seq","Hsapiens","HEK293","FTO_Control","-","-",6659
+"8",8,"Deciphering the “m6A Code” via Antibody-independent Quantitative Profiling","Cell",31257032,"GSE122961","MAZTER-Seq","Hsapiens","HEK293","FTO_OE","-","-",7024
+"9",9,"Deciphering the “m6A Code” via Antibody-independent Quantitative Profiling","Cell",31257032,"GSE122961","MAZTER-Seq","Hsapiens","HEK293","AlkBH5_OE","-","-",6438
+"10",10,"Deciphering the “m6A Code” via Antibody-independent Quantitative Profiling","Cell",31257032,"GSE122961","MAZTER-Seq","Hsapiens","HEK293","AlkBH4_Control","-","-",6298
+"11",11,"Deciphering the “m6A Code” via Antibody-independent Quantitative Profiling","Cell",31257032,"GSE122961","MAZTER-Seq","Hsapiens","HEK294","Cytosolic","-","-",9441
+"12",12,"Single-base mapping of m6A by an antibody-independent method","Science Advances",31281898,"GSE125240","m6A-REF-Seq","Hsapiens","HEK293","none","-","-",2384
+"13",13,"Single-base mapping of m6A by an antibody-independent method","Science Advances",31281898,"GSE125240","m6A-REF-Seq","Hsapiens","Brain","none","-","-",4524
+"14",14,"Single-base mapping of m6A by an antibody-independent method","Science Advances",31281898,"GSE125240","m6A-REF-Seq","Hsapiens","Kidney","none","-","-",4464
+"15",15,"Single-base mapping of m6A by an antibody-independent method","Science Advances",31281898,"GSE125240","m6A-REF-Seq","Hsapiens","Liver","none","-","-",2497
+"16",16,"DART-seq: an antibody-free method for global m<sup>6</sup>A detection","Nat Methods",31548708,"GSE125780","DART-Seq","Hsapiens","HEK293","APOBEC1YTH","-","-",16223
+"17",17,"DART-seq: an antibody-free method for global m<sup>6</sup>A detection","Nat Methods",31548708,"GSE125780","DART-Seq","Hsapiens","HEK293","low_input","-","-",27896
+"18",18,"DART-seq: an antibody-free method for global m<sup>6</sup>A detection","Nat Methods",31548708,"GSE125780","DART-Seq","Hsapiens","HEK293","APOBEC1YTHmut","-","-",9513
+"19",19,"DART-seq: an antibody-free method for global m<sup>6</sup>A detection","Nat Methods",31548708,"GSE125780","DART-Seq","Hsapiens","HEK293","APOBEC1","-","-",2620
+"20",20,"The human 18S rRNA m6A methyltransferase METTL5 is stabilized by TRMT112","Nucleic Acids Res",31328227,"GSE128699","miCLIP","Hsapiens","HCT116","none","CIMS","abcam",1378
+"21",21,"The human 18S rRNA m6A methyltransferase METTL5 is stabilized by TRMT112","Nucleic Acids Res",31328227,"GSE128699","miCLIP","Hsapiens","HCT116","none","CIMS","abcam",11623
+"22",22,"The human 18S rRNA m6A methyltransferase METTL5 is stabilized by TRMT112","Nucleic Acids Res",31328227,"GSE128699","miCLIP","Hsapiens","HCT116","METTL5 KO","CIMS","abcam",8638
+"23",23,"The human 18S rRNA m6A methyltransferase METTL5 is stabilized by TRMT112","Nucleic Acids Res",31328227,"GSE128699","miCLIP","Hsapiens","HCT116","METTL5 KO","CIMS","abcam",6265
+"24",24,"The human 18S rRNA m6A methyltransferase METTL5 is stabilized by TRMT112","Nucleic Acids Res",31328227,"GSE128699","miCLIP","Hsapiens","HCT116","ZCCHC4 KO","CIMS","abcam",2770
+"25",25,"The human 18S rRNA m6A methyltransferase METTL5 is stabilized by TRMT112","Nucleic Acids Res",31328227,"GSE128699","miCLIP","Hsapiens","HCT116","ZCCHC4 KO","CIMS","abcam",3733
+"26",26,"High-resolution N(6) -methyladenosine (m(6) A) map using photo-crosslinking-assisted m(6) A sequencing","Angew Chem Int Ed Engl",25491922,"GSE54921","m6A-PA-CLIP","Hsapiens","Cervical cancer cells","none","MITS","anti-m6A antibody",10636
+"27",27,"High-resolution N(6) -methyladenosine (m(6) A) map using photo-crosslinking-assisted m(6) A sequencing","Angew Chem Int Ed Engl",25491922,"GSE54921","m6A-PA-CLIP","Hsapiens","Cervical cancer cells","none","MITS","anti-m6A antibody",13221
+"28",28,"High-resolution N(6) -methyladenosine (m(6) A) map using photo-crosslinking-assisted m(6) A sequencing","Angew Chem Int Ed Engl",25491922,"GSE54921","m6A-PA-CLIP","Hsapiens","Cervical cancer cells","none","MITS","anti-m6A antibody",11217
+"29",29,"High-resolution N(6) -methyladenosine (m(6) A) map using photo-crosslinking-assisted m(6) A sequencing","Angew Chem Int Ed Engl",25491922,"GSE54921","m6A-PA-CLIP","Hsapiens","Cervical cancer cells","none","MITS","anti-m6A antibody",14504
+"30",30,"Single-nucleotide-resolution mapping of m6A and m6Am throughout the transcriptome.","Nat Methods",26121403,"GSE63753","miCLIP","Hsapiens","HEK293","none","CIMS","abcam",7370
+"31",31,"Single-nucleotide-resolution mapping of m6A and m6Am throughout the transcriptome.","Nat Methods",26121404,"GSE63753","miCLIP","Hsapiens","HEK293","none","CITS","sysy",6215
+"32",32,"A majority of m6A residues are in the last exons, allowing the potential for 3' UTR regulation.","Genes Dev",26404942,"GSE71154","m6A-CLIP","Hsapiens","A549","none","MITS","sysy",20516
+"33",33,"A majority of m6A residues are in the last exons, allowing the potential for 3' UTR regulation.","Genes Dev",26404942,"GSE71154","m6A-CLIP","Hsapiens","CD8 T cells","none","MITS","sysy",17383
+"34",34,"A mRNA modifications are deposited in nascent pre-mRNA and are not required for splicing but do specify cytoplasmic turnover","Genes Dev",28637692,"GSE86336","m6A-CLIP","Hsapiens","HeLa","CA","MITS","sysy",37615
+"35",35,"A mRNA modifications are deposited in nascent pre-mRNA and are not required for splicing but do specify cytoplasmic turnover","Genes Dev",28637692,"GSE86336","m6A-CLIP","Hsapiens","HeLa","NU","MITS","sysy",43415
+"36",36,"A mRNA modifications are deposited in nascent pre-mRNA and are not required for splicing but do specify cytoplasmic turnover","Genes Dev",28637692,"GSE86336","m6A-CLIP","Hsapiens","HeLa","CY","MITS","sysy",46361
+"37",37,"A mRNA modifications are deposited in nascent pre-mRNA and are not required for splicing but do specify cytoplasmic turnover","Genes Dev",28637692,"GSE86336","m6A-CLIP","Hsapiens","HeLa","none","MITS","sysy",37187
+"38",38,"The N6-methyladenosine (m6A)-forming enzyme METTL3 controls myeloid differentiation of normal hematopoietic and leukemia cells","Nat Med",28920958,"GSE98623","miCLIP","Hsapiens","MOLM13 (AML)","none","CITS","abcam",8113
+"39",39,"The N6-methyladenosine (m6A)-forming enzyme METTL3 controls myeloid differentiation of normal hematopoietic and leukemia cells","Nat Med",28920958,"GSE98623","miCLIP","Hsapiens","MOLM13 (AML)","none","CITS","abcam",2866
+"40",40,"The N6-methyladenosine (m6A)-forming enzyme METTL3 controls myeloid differentiation of normal hematopoietic and leukemia cells","Nat Med",28920958,"GSE98623","miCLIP","Hsapiens","MOLM13 (AML)","none","CITS","abcam",2050
